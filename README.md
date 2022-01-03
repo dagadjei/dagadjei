@@ -1,13 +1,17 @@
 ### Hi there 👋
-I'm Dag 
+I'm Dag, 
 Fullstack Engineer (Python and JavaScript)
+- 🔭 I’m currently working on Django-React Fullstack Applications
+- 👯 I’m looking to collaborate on exciting and intriuging projects
+- 💬 Ask me about anything software and I'd have something to say or a homework
+- 📫 Reach me on adjeidag@gmail.com 
 
 <!--
 **dagadjei/dagadjei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
