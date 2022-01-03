@@ -1,5 +1,6 @@
 ### Hi there 👋
-I'm Dag
+I'm Dag 
+Fullstack Engineer (Python and JavaScript)
 
 <!--
 **dagadjei/dagadjei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
