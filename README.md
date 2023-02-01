@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Dag, 
-Fullstack Engineer (Python and JavaScript)
-- 🔭 I’m currently working on Django-React Fullstack Applications
+
+- 🔭 I’m currently working on 
 - 👯 I’m looking to collaborate on exciting and intriuging projects
 - 💬 Ask me about anything software and I'd have something to say or a homework
 - 📫 Reach me on adjeidag@gmail.com 
