@@ -2,6 +2,7 @@
 Hi, I'm Dag!
 
 - 🔭 I’m currently focused on ensuring software quality through automation and manual testing.
+- 🚀 Playwright, Cypress, Selenium, Postman, QA
 - 👯 I’m looking to collaborate on exciting and challenging QA projects.
 - 💬 Ask me anything about software testing—I've got experience and insights to share!
 - 📫 Reach me at adjeidag@gmail.com
