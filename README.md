@@ -1,10 +1,11 @@
 ### Hi there 👋
 Hi, I'm Dag!
 
-🔭 I’m currently focused on ensuring software quality through automation and manual testing.
-👯 I’m looking to collaborate on exciting and challenging QA projects.
-💬 Ask me anything about software testing—I've got experience and insights to share!
-📫 Reach me at adjeidag@gmail.com
+- 🔭 I’m currently focused on ensuring software quality through automation and manual testing.
+- 👯 I’m looking to collaborate on exciting and challenging QA projects.
+- 💬 Ask me anything about software testing—I've got experience and insights to share!
+- 📫 Reach me at adjeidag@gmail.com
+- ⚡ Fun fact: I run at least 15km every week!
 <!--
 **dagadjei/dagadjei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
